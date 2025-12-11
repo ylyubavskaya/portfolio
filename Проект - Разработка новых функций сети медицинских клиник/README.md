@@ -10,4 +10,4 @@
 
 1. На основе интервью с пользователями составить US Map новых функций приложения частной клиники. Выделить MVP. В MVP описать критерии и сценарии приемки на Gherkin. **Ссылка на US Map:** [https://miro.com/app/board/uXjVJv\_DVC4=/?share\_link\_id=537566546888](https://miro.com/app/board/uXjVJv_DVC4=/?share_link_id=537566546888)
 2. Создать варфреймы на основе MVP. **Ссылка на варфреймы:** [https://www.figma.com/design/229xHNgqNp2ZAxVqqK0rjM/Vita-Clinic-Wireframes?node-id=19069-32\&t=18VlMiYxEjAf5FkB-1](https://www.figma.com/design/229xHNgqNp2ZAxVqqK0rjM/Vita-Clinic-Wireframes?node-id=19069-32&t=18VlMiYxEjAf5FkB-1)
-3. Создать DFD-диаграмму новых функций.
+3. Создать контекстную и логическую DFD-диаграмму новых функций.

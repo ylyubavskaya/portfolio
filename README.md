@@ -20,5 +20,5 @@
 
 **В данный момент нахожусь в поиске работы.**
 
-E-mail для связи: [y.lyubavskaya@gmail.com](mailto:y.lyubavskaya@gmail.com)
+E-mail для связи: mailto:y.lyubavskaya@gmail.com
 

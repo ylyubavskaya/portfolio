@@ -19,6 +19,7 @@
 
 
 **В данный момент нахожусь в поиске работы.**
+
 Резюме: https://hh.ru/resume/c56025faff0ee39ab60039ed1f47683951464a 
 
 E-mail для связи: [y.lyubavskaya@gmail.com](mailto:y.lyubavskaya@gmail.com)
